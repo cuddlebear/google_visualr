@@ -16,6 +16,12 @@ module GoogleVisualr
       end
     end
 
+    module Calendar
+      def package_name
+        "calendar"
+      end
+    end
+	
     module ImageChart
       def package_name
         "image#{self.class.to_s.split("::").last.downcase}"

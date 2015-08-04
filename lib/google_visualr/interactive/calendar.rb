@@ -1,5 +1,5 @@
 module GoogleVisualr
-  module Interactive
+  module Calendar
 
     # http://code.google.com/apis/chart/interactive/docs/gallery/barchart.html
     class Calendar < BaseChart

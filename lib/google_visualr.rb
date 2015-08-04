@@ -34,6 +34,7 @@ require "#{lib_path}/google_visualr/interactive/tree_map"
 
 ## Additional
 require "#{lib_path}/google_visualr/interactive/annotated_time_line"
+require "#{lib_path}/google_visualr/interactive/calendar"
 require "#{lib_path}/google_visualr/interactive/intensity_map"
 require "#{lib_path}/google_visualr/interactive/map"
 require "#{lib_path}/google_visualr/interactive/motion_chart"
